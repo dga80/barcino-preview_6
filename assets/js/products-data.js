@@ -154,24 +154,15 @@ const PRODUCTS = [
         ]
     },
     {
-        id: "pork-loin-without-skin",
+        id: "ham-4d-tunnel-boned-rindless",
         category: "pork",
-        title: "Pork Loin Without Skin (Lomo de Cerdo sin Piel)",
-        description: "Trimmed skinless pork loin · Custom specification",
+        title: "Ham 4D Tunnel Boned Rindless (Jamón 4D Túnel sin Piel)",
+        description: "4D tunnel-boned rindless pork leg · Fresh & Frozen",
         thumb: "assets/img/products/pork/10_porkLoinWithoutskin/porkLoinWithoutSkin-1.jpg",
         gallery: [
             "assets/img/products/pork/10_porkLoinWithoutskin/porkLoinWithoutSkin-1.jpg",
             "assets/img/products/pork/10_porkLoinWithoutskin/porkLoinWithoutSkin-2.jpg",
-            "assets/img/products/pork/10_porkLoinWithoutskin/porkLoinWithoutSkin-3.jpg"
-        ]
-    },
-    {
-        id: "pork-loin-with-skin",
-        category: "pork",
-        title: "Pork Loin With Skin (Lomo de Cerdo con Piel)",
-        description: "Rind-on pork loin primal · Fresh & Frozen",
-        thumb: "assets/img/products/pork/11_porkLoinWithSkin/porkLoinWithSkin-1.jpg",
-        gallery: [
+            "assets/img/products/pork/10_porkLoinWithoutskin/porkLoinWithoutSkin-3.jpg",
             "assets/img/products/pork/11_porkLoinWithSkin/porkLoinWithSkin-1.jpg",
             "assets/img/products/pork/11_porkLoinWithSkin/porkLoinWithSkin-2.jpg",
             "assets/img/products/pork/11_porkLoinWithSkin/porkLoinWithSkin-3.jpg"
@@ -191,7 +182,7 @@ const PRODUCTS = [
     {
         id: "rind-on-back",
         category: "pork",
-        title: "Rind On Back (Lomo / Chuleta con Piel)",
+        title: "Rind On Back (Back con Piel)",
         description: "Pork back cut with skin on · Export quality",
         thumb: "assets/img/products/pork/13_rindOnBack/rindOnBack-1.jpg",
         gallery: [
@@ -203,7 +194,7 @@ const PRODUCTS = [
     {
         id: "skinless-back",
         category: "pork",
-        title: "Skinless Back (Lomo / Chuleta sin Piel)",
+        title: "Skinless Back (Back sin Piel)",
         description: "Trimmed rindless pork back cut",
         thumb: "assets/img/products/pork/14_skinless back/skinless-back_1.jpg",
         gallery: [
@@ -213,9 +204,9 @@ const PRODUCTS = [
         ]
     },
     {
-        id: "tender-loin",
+        id: "tenderloin",
         category: "pork",
-        title: "Tender Loin (Solomillo)",
+        title: "Tenderloin (Solomillo)",
         description: "Whole trimmed pork tenderloin fillet",
         thumb: "assets/img/products/pork/15_tenderloin/tenderloin-2.jpg",
         gallery: [
@@ -235,7 +226,9 @@ const PRODUCTS = [
         description: "Premium young bull ribeye selected for exceptional marbling and tenderness · Fresh & Frozen",
         thumb: "assets/img/products/young-bull/RIBEYE_4.jpg",
         gallery: [
-            "assets/img/products/young-bull/RIBEYE_4.jpg"
+            "assets/img/products/young-bull/RIBEYE_4.jpg",
+            "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.14 (3) - copia.jpg",
+            "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.15 - copia.jpg"
         ]
     },
     {
@@ -255,16 +248,7 @@ const PRODUCTS = [
         description: "Prime young bull striploin with consistent fat cover and balanced marbling · Fresh & Frozen",
         thumb: "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.13.jpg",
         gallery: [
-            "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.13.jpg"
-        ]
-    },
-    {
-        id: "young-bull-tenderloin",
-        category: "young-bull",
-        title: "Tenderloin / Filet (Solomillo)",
-        description: "Center-cut tender young bull tenderloin primal · Maximum tenderness and delicate flavor",
-        thumb: "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.14 - copia.jpg",
-        gallery: [
+            "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.13.jpg",
             "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.14 - copia.jpg"
         ]
     },
@@ -276,26 +260,6 @@ const PRODUCTS = [
         thumb: "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.14 (2) - copia.jpg",
         gallery: [
             "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.14 (2) - copia.jpg"
-        ]
-    },
-    {
-        id: "young-bull-silverside",
-        category: "young-bull",
-        title: "Silverside / Outside Flat (Contra)",
-        description: "Lean, firm young bull silverside flat primal for curing, roasting and manufacturing",
-        thumb: "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.14 (3) - copia.jpg",
-        gallery: [
-            "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.14 (3) - copia.jpg"
-        ]
-    },
-    {
-        id: "young-bull-rump",
-        category: "young-bull",
-        title: "Rump / Heart of Rump (Cadera)",
-        description: "Tender, robust young bull rump cut selected for premium steaks and roasts · Fresh & Frozen",
-        thumb: "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.15 - copia.jpg",
-        gallery: [
-            "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.15 - copia.jpg"
         ]
     },
     {
